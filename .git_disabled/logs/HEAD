@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 b2b8f24070e6469807cf0763ac132a7cb9c66534 nojiritakeshi <takesoccer08nine@ezweb.ne.jp> 1747661241 +0900	commit (initial): first_2
+b2b8f24070e6469807cf0763ac132a7cb9c66534 f8c245c94d5cda6bd5197fcf074174082b31a36c nojiritakeshi <takesoccer08nine@ezweb.ne.jp> 1747666036 +0900	commit: ダッシュボードエラー解消
+f8c245c94d5cda6bd5197fcf074174082b31a36c c6d8e946bf3697298e25df334a8bfa1eabf51927 nojiritakeshi <takesoccer08nine@ezweb.ne.jp> 1747669287 +0900	commit: カテゴリ選択ができる
+c6d8e946bf3697298e25df334a8bfa1eabf51927 c6d8e946bf3697298e25df334a8bfa1eabf51927 nojiritakeshi <takesoccer08nine@ezweb.ne.jp> 1747749770 +0900	checkout: moving from master to feature/reader-receipt-ai
+c6d8e946bf3697298e25df334a8bfa1eabf51927 c6d8e946bf3697298e25df334a8bfa1eabf51927 nojiritakeshi <takesoccer08nine@ezweb.ne.jp> 1747754367 +0900	reset: moving to HEAD
